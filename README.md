@@ -54,7 +54,7 @@ These measures prevent the API KEY from being used by unauthorized applications 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Dootez/FirebaseAuthApp.git
 
 2. Open the project in Android Studio.
 
